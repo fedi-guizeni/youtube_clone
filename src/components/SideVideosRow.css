@@ -1,0 +1,29 @@
+.Side-video-container{
+    display: flex;
+    padding-bottom: 10px;
+   background-color: #f9f9f9;
+   cursor: pointer;
+   max-width: 350px;
+
+}
+.link {
+    text-decoration: none;
+}
+.image-container > img  {
+   object-fit: cover;
+   flex: 0.4;
+    width: 190px;
+    height: 120px;
+}
+
+
+.video-text {
+    display: flex;
+     width: 220px;
+    flex-direction: column;
+    
+    
+}
+.video-desc{
+    margin-top: 5px;
+}

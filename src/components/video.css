@@ -1,0 +1,16 @@
+.videoCard{
+    width:  270px;
+    margin-bottom: 40px;
+    cursor: pointer;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.video-image {
+    height: 140px;
+    width: 250px;
+    object-fit: cover;
+}
